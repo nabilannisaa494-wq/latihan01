@@ -12,13 +12,5 @@ Fitriannisaa Nabila
 
 
 
-Praktikum
-
-analisa
-
-big
-
-data
-
-ekonomika
+Praktikum Analisa big data ekonomika
 
