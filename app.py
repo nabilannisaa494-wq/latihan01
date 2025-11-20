@@ -12,4 +12,4 @@ pg = st.navigation(
     expanded=True
 )
 
-pg.run()1
+pg.run()
